@@ -1,3 +1,3 @@
-* Apple
-* Mango 
-* Orange 
+- apple
+- mango 
+- orange 
